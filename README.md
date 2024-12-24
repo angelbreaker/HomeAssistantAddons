@@ -33,3 +33,9 @@ Enable `Auto update` on the desired add-on or browse Hassio Add-on Store Tab to 
 My iSolarCloud API interface for [Home Assistant](https://www.home-assistant.io/).
 
 The [GoSunGrow](https://github.com/MickMake/GoSunGrow/) API interface doesn't just do HA, but a lot more.
+
+### HACS Dependencies
+
+Needs [HACS Mini Graphs](https://github.com/kalkih/mini-graph-card/releases/latest) and [HACS Canvas Gauge Card](https://github.com/custom-cards/canvas-gauge-card/releases/latest)  
+
+ 
